@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to my GitHub!
 
 I'm John, also known as FearTheDev, a dedicated software engineer with a versatile background spanning **Web Engineering** and **Game Development**.
 
